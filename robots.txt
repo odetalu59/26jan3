@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.alphasmanifesto.com//superjp/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//gilajp/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//gojekpot/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//winstrike69/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//slotgacor/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//slotzeus/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//kaptenjackpot/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//boosterjp/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//kerajaanslot/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//pakong86/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//viral88/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//clan4d/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//dinamit4d/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//elang212/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//gori77/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//viral4d/sitemap.xml
+Sitemap: https://www.alphasmanifesto.com//playground88/sitemap.xml
